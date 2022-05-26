@@ -1,0 +1,3 @@
+[submodule "first_assignment/DeepLearnToolbox"]
+	path = first_assignment/DeepLearnToolbox
+	url = https://github.com/happynear/DeepLearnToolbox.git
